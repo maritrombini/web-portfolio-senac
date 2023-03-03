@@ -5,7 +5,7 @@
 <br>
   <h1 align="center">
     <br>
-    <p align="center">Web Standards PTI<p>
+    <p align="left">Web Standards PTI<p>
   </h1>
       <p align="center">Análise e Desenvolvimento de Sistemas - Senac<p>
 
