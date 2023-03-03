@@ -22,8 +22,6 @@ Elaborar um curriculum digital/web portfolio para prática dos conceitos apresen
 
 - [WebPortfolio](https://maritrombini.github.io/web-portfolio-senac)
   <br>
-  <p>Não deixe de me enviar um email 😉 </p> 
-  <br>
 
 ## Autora 👩‍💻
 
