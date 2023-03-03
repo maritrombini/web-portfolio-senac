@@ -92,7 +92,7 @@ function sendEmail() {
     Subject: `Portifólio: ${subject}`,
     Body: finalmessage
   }).then(
-    message => alert(message)
+    message => alert("Mensagem enviada com sucesso!")
   );
   document.getElementById("form-reset").reset();
 }
